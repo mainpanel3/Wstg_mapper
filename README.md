@@ -82,8 +82,7 @@ src/main/java/dev/wstgmapper/
 
 Free extension, no features gated behind payment. If it saved you time, the price of a coffee is always welcome:
 
-BTC: your-btc-address-here
-ETH: your-eth-address-here
+Trx: TEgkMPxa5dtKT1w979oy2qJtbfCMHL9PKJ
 
 ## Warning
 
